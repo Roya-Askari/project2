@@ -6,3 +6,4 @@ Group members:
 
 
 Roya Askari   royaskari@csu.fullerton.edu
+Henry Nguyen spanky14@csu.fullerton.edu 
